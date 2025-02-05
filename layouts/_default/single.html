@@ -14,14 +14,22 @@
       </span>
       {{- end }}
     </h1>
+    
     {{- if .Description }}
     <div class="post-description">
       {{ .Description }}
     </div>
     {{- end }}
+
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
+
+      <!-- ✅ Author Section -->
+      {{- with .Params.author }}
+      <p><strong>Author:</strong> {{ . }}</p>
+      {{- end }}
+
       {{- partial "translation_list.html" . -}}
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
@@ -45,6 +53,7 @@
   {{- end }}
 
   <footer class="post-footer">
+    <!-- ✅ Tags Section -->
     {{- if .Params.tags }}
     <ul class="post-tags">
       <li><strong>Tags:</strong></li>
