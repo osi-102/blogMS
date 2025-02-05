@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "My New Blog Site"
+title = "BlogMS"
 theme = "hugo-PaperMod"
 
 [params]
