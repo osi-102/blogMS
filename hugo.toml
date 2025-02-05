@@ -1,0 +1,50 @@
+baseURL = ""
+languageCode = "en-us"
+title = "My New Blog Site"
+theme = "hugo-PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+
+  [params.homeInfoParams]
+    Title = "🚀 Welcome to My Tech Blog"
+    Content = "Sharing knowledge about web development, programming, and cutting-edge technology. Explore my latest posts, tutorials, and thoughts on modern development."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourusername"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/yourprofile"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/yourhandle"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 30

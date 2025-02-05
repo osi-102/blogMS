@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Blog Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Blog Site</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2025 16:12:33 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Mon, 03 Feb 2025 16:12:33 +0530</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hugo is a fast and flexible static site generator built for speed and ease of use. It enables developers and content creators to build modern websites without the complexity of traditional CMS platforms.&lt;/p&gt;
+&lt;p&gt;In this post, we&amp;rsquo;ll explore how to get started with Hugo, set up a basic site, and create our first blog post.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-use-hugo&#34;&gt;🚀 Why Use Hugo?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blazing Fast:&lt;/strong&gt; Hugo generates your site in milliseconds.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple &amp;amp; Flexible:&lt;/strong&gt; No database required, just markdown files.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SEO-Friendly:&lt;/strong&gt; Built-in support for metadata, sitemaps, and more.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extensible:&lt;/strong&gt; Themes, templates, and shortcodes make customization easy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-setting-up-hugo&#34;&gt;🛠 Setting Up Hugo&lt;/h2&gt;
+&lt;h3 id=&#34;1-install-hugo&#34;&gt;1️⃣ Install Hugo&lt;/h3&gt;
+&lt;p&gt;First, install Hugo on your system:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>second</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Mon, 03 Feb 2025 16:12:33 +0530</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Third</title>
+      <link>//localhost:1313/posts/third/</link>
+      <pubDate>Mon, 03 Feb 2025 16:12:33 +0530</pubDate>
+      <guid>//localhost:1313/posts/third/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

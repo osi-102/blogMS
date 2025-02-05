@@ -1,0 +1,19 @@
+baseURL: ''
+languageCode: en-us
+title : My New Blog Site
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 30
