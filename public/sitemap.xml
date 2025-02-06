@@ -38,6 +38,8 @@
     <loc>http://localhost:1313/posts/third/</loc>
     <lastmod>2025-02-03T16:12:33+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/vitamind/</loc>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>
