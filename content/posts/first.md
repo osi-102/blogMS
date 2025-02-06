@@ -4,6 +4,7 @@ draft = false
 title = 'First'
 tags = ["html", "css", "javascript"]
 categories = ["tech"]
+cover = { image = "img/softfern.jpg", alt = "cover image" }
 +++
 
 
