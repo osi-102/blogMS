@@ -36,19 +36,5 @@
       <guid>http://localhost:1313/categories/utility/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Finance</title>
-      <link>http://localhost:1313/categories/finance/</link>
-      <pubDate>Mon, 03 Feb 2025 16:12:33 +0530</pubDate>
-      <guid>http://localhost:1313/categories/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
-      <pubDate>Mon, 03 Feb 2025 16:12:33 +0530</pubDate>
-      <guid>http://localhost:1313/categories/tech/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
