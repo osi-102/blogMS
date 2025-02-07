@@ -6,10 +6,18 @@ tags = ["SaaS", "Vitamin D"]
 categories = ["Health"]
 cover = { image = "img/vitaminD.jpg", alt = "cover image" }
 +++
+<!-- markdownlint-disable MD033 -->
 
-## **Core Problem**
+**Core Problem**
+
+<!-- <span class="large-text">This is  larger text</span>
+
+{{< bigtext "16px" "white" >}}This is a larger text{{< /bigtext >}} -->
+
 
 Many people, especially those with vitamin D deficiency, forget to get sunlight during the day. Sunlight is critical for vitamin D synthesis, which supports bone health, immunity, and mood. Missing daily exposure (especially in winter or for office workers) can worsen deficiencies.
+
+
 
 ## **How It Works**
 
@@ -28,17 +36,23 @@ Many people, especially those with vitamin D deficiency, forget to get sunlight 
 - Log sunlight exposure manually or via weather API (e.g., *"It’s sunny today—did you go outside?"*)
 - Weekly summaries showing progress toward vitamin D goals.
 
+&nbsp;  
+
 ## **Key Features (Single Focus)**
 
 - **Minimalist Design:** No clutter—just sunset times, reminders, and a progress bar.
 - **Passive Tracking:** Uses weather data to nudge users on sunny days (e.g., *"Perfect weather for sunlight!"*)
 - **Educational Tips:** Short, science-backed notes about vitamin D benefits (e.g., *"Did you know? 10 minutes of sun = 1,000 IU of vitamin D!"*)
 
+&nbsp;  
+
 ## **Why People Need This**
 
 - **Vitamin D Deficiency:** Affects ~1 billion people globally.
 - **Modern Lifestyles:** Office workers, night-shift employees, and gamers often miss the daytime sun.
 - **Seasonal Depression:** Lack of sunlight worsens conditions like SAD (Seasonal Affective Disorder).
+
+&nbsp;  
 
 ## **Validation Steps**
 
@@ -84,6 +98,7 @@ Many people, especially those with vitamin D deficiency, forget to get sunlight 
 - **Focus:** Adjust screen temperature based on sunset.
 - **Gaps:** Focus on screen usage, not sunlight exposure.
 
+
 ## **How to Differentiate**
 
 | Feature             | Your App | Competitors |
@@ -91,6 +106,7 @@ Many people, especially those with vitamin D deficiency, forget to get sunlight 
 | **Sunset Alerts**  | ✅ Auto-generated | ❌ Manual reminders (Google Calendar) |
 | **Vitamin D Focus** | ✅ Tied to health outcomes | ❌ Generic sun-tracking (Sun Surveyor) |
 | **Simplicity**      | ✅ Open app → set reminder → done | ❌ Requires skin type/SPF input (Dminder) |
+
 
 ## **Competitive Edge**
 
@@ -111,6 +127,9 @@ Many people, especially those with vitamin D deficiency, forget to get sunlight 
   - **Fix:** Add gamification (*streaks, badges*) or integrate with Apple Health/Google Fit.
 
 ## **Monetization**
+
+{{< figure src="/img/monetization.jpg" alt="Monetization Image, Source: Freepik" >}}
+
 
 ### **Freemium Model**
 

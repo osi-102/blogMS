@@ -3,10 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-03T16:12:33+05:30</lastmod>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/case-study/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-02-03T16:12:33+05:30</lastmod>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/health/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reminder/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/saas/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/pantry_reminder/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/sustainability/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/utility/</loc>
+    <lastmod>2025-02-06T22:00:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vitamind/</loc>
+    <lastmod>2025-02-06T16:12:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vitamin-d/</loc>
+    <lastmod>2025-02-06T16:12:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2025-02-03T16:12:33+05:30</lastmod>
@@ -23,13 +59,7 @@
     <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2025-02-03T16:12:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-03T16:12:33+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/second/</loc>
-    <lastmod>2025-02-03T16:12:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-03T16:12:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/tech/</loc>
@@ -37,8 +67,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/third/</loc>
     <lastmod>2025-02-03T16:12:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/vitamind/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url>

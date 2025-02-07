@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reminder on BlogMS</title>
+    <link>http://localhost:1313/tags/reminder/</link>
+    <description>Recent content in Reminder on BlogMS</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2025 22:00:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reminder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saas Idea Case Study #2: Reducing Food Waste and Improving Medication Adherence with Smart Tracking Apps</title>
+      <link>http://localhost:1313/posts/pantry_reminder/</link>
+      <pubDate>Thu, 06 Feb 2025 22:00:33 +0530</pubDate>
+      <guid>http://localhost:1313/posts/pantry_reminder/</guid>
+      <description>A comprehensive case study exploring dual-app solutions that tackle food waste and medication adherence using smart tracking technologies.</description>
+    </item>
+  </channel>
+</rss>

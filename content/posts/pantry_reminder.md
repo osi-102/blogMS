@@ -1,7 +1,7 @@
 +++
-date = "2025-02-06T22:00:33+05:30"
+date = '2025-02-06T22:00:33+05:30'
 draft = false
-title = "Saas Idea Case Study #2: Reducing Food Waste and Improving Medication Adherence with Smart Tracking Apps"
+title = 'Saas Idea Case Study #2: Reducing Food Waste and Improving Medication Adherence with Smart Tracking Apps'
 tags = ["SaaS", "Reminder", "Case-Study"]
 categories = ["Health", "Utility", "Sustainability", "Software"]
 cover = { image = "img/father and son buying food in grocery store.jpg", alt = "cover image" }

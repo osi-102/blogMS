@@ -9,6 +9,9 @@ theme = "hugo-PaperMod"
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
+  
+  [params.assets]
+  customCSS = ["css/custom.css"]
 
   [params.homeInfoParams]
     Title = "🚀 Welcome to My Tech Blog"

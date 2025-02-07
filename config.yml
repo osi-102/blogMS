@@ -17,3 +17,9 @@ menu:
       name: archives
       url: /archives/
       weight: 30
+
+
+params:
+  customCSS:
+    - css/custom.css
+
